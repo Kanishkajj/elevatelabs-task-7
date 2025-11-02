@@ -1,0 +1,14 @@
+Mistake 1: User flow
+  Here's allergy screen with six preset option, there is no search bar if someone allergic to some else which is not mentioned in the six preset option, there is no search bar , and skip button.
+
+Mistake 2: Overusing effects
+  Gradient here is blue and green but you can use same color as a gradient like darker to lighter.
+
+Mistake 3: Spacing
+  Use two tools here, grids and auto layout to make so much better.
+
+Mistake 4: Icons
+  we have no icons in the original cards, which forces users to read more and slows down thee browsing process, lets add in good icons.
+
+Mistake 5: Interactive feedback
+  clicking on the save icon, we could also add a red dot to one save icon, when we click on the icon, we get it filled.
